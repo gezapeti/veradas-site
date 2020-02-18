@@ -14,7 +14,7 @@ url: "https://veradas.gezapeti.com/" # the base hostname & protocol for your sit
 #twitter:            default
 #facebook:           default
 #instagram:          default
-github:             https://github.com/gezapeti/veradas-site
+github:             gezapeti/veradas-site
 
 # personal
 #location:           Los Angeles, CA
