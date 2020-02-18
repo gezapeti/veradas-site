@@ -1,10 +1,10 @@
 # Site
 title:              Véradás helyszínek Magyarországon
 bio:                'Véradási helyszínek listája - veradas.hu-ról átemelve'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+description:        ""
 locale:             hu_HU
-baseurl: "veradas-site/" # the subpath of your site, e.g. /blog
-url: "https://gezapeti.github.io/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://veradas.gezapeti.com/" # the base hostname & protocol for your site
 
 # Comments
 #disqus_shortname:   default
